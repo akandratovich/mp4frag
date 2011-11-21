@@ -1,0 +1,6 @@
+Win32 port of mp4frag from OpenHTTPStreamer (https://github.com/inventos/OpenHttpStreamer/tree/master/mp4frag)
+
+OSMF MP4 Fragmenter.
+
+(C) 2011 andrew.kondratovich@gmail.com (https://github.com/kondratovich/mp4frag)
+Originally (C) Inventos (https://github.com/inventos/OpenHttpStreamer)
